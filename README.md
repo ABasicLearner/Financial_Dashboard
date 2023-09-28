@@ -20,9 +20,9 @@ This repository contains a financial dashboard developed using Python with Strea
 The financial data used in this dashboard is loaded from CSV files specified in the config.py file.
 
 # File Structure
-*** app.py:** The main Streamlit application script.
-*** functions.py:** Contains functions for displaying summaries, topics, and sentiment analysis.
-*** config.py:** Configuration file specifying the paths to the CSV data files.
-*** datasets/:** Directory containing the CSV data files.
+* **app.py:** The main Streamlit application script.
+* **functions.py:** Contains functions for displaying summaries, topics, and sentiment analysis.
+* **config.py:** Configuration file specifying the paths to the CSV data files.
+* **datasets/:** Directory containing the CSV data files.
 
 Feel free to explore the code and customize the dashboard to suit your specific financial analysis needs.
